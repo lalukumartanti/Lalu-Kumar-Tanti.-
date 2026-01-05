@@ -207,7 +207,7 @@
     .ripple { position: absolute; border-radius: 50%; pointer-events: none; transform: scale(0); background: rgba(255, 255, 255, 0.4); animation: rippleFx 0.6s linear; }
     @keyframes rippleFx { to { transform: scale(4); opacity: 0; } }
 
-    /* --- SULTAN AI BOT PRO --- */
+    /* --- LALU AI BOT PRO --- */
     .ai-float-btn {
       position: fixed; bottom: 30px; right: 30px; width: 65px; height: 65px;
       background: var(--gold); border-radius: 50%; z-index: 600;
@@ -347,8 +347,8 @@
 
   <div class="main-card reveal">
     <!-- CONTACT -->
-    <a href="tel:+919771317808" class="btn call"><i class="fa-solid fa-phone-volume"></i> <span data-key="call">Direct Call</span></a>
-    <a href="sms:+919771317808" class="btn sms"><i class="fa-solid fa-comment-sms"></i> <span data-key="sms">Text Message</span></a>
+    <a href="tel:+919771617808" class="btn call"><i class="fa-solid fa-phone-volume"></i> <span data-key="call">Direct Call</span></a>
+    <a href="sms:+919771617808" class="btn sms"><i class="fa-solid fa-comment-sms"></i> <span data-key="sms">Text Message</span></a>
     <a href="mailto:lalukumartanti75@gmail.com" class="btn mail"><i class="fa-solid fa-envelope"></i> <span data-key="email">Send Email</span></a>
     
     <div style="margin: 20px 0; height: 1px; background: var(--card-border);"></div>
