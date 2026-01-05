@@ -297,7 +297,7 @@
     </div>
 
     <div class="swagat-title" data-key="name">Lalu Kumar Tanti</div>
-    <div class="subtitle">VERIFIED SULTAN</div>
+    <div class="subtitle">VERIFIED LALU KUMAR</div>
     
     <button class="enter-btn" onclick="enterExperience()">
       <i class="fa-solid fa-fingerprint"></i> <span data-key="enterBtn">Enter Profile</span>
@@ -386,14 +386,14 @@
     © 2026 LALU KUMAR TANTI | ALL RIGHTS RESERVED
   </footer>
 
-  <!-- SULTAN AI WIDGET -->
+  <!-- LALU AI WIDGET -->
   <div class="ai-float-btn" onclick="toggleChat()">
     <i class="fa-solid fa-robot" style="font-size: 28px; color:#000;"></i>
   </div>
 
   <div class="ai-chat-window" id="chatWindow">
     <div class="chat-header">
-      <h3><i class="fa-solid fa-microchip" style="color:#000;"></i> SULTAN AI v2.0</h3>
+      <h3><i class="fa-solid fa-microchip" style="color:#000;"></i> LALU BRAIN AI v2.0</h3>
       <i class="fa-solid fa-xmark" onclick="toggleChat()" style="cursor:pointer; font-size:18px;"></i>
     </div>
     <div class="chat-body" id="chatBody">
