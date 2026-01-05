@@ -340,7 +340,7 @@
     <h1 class="reveal" data-key="name">Lalu Kumar Tanti</h1>
     <div class="reveal location-text" data-key="location">Jaipur, Banka, Bihar, India</div>
     <div class="reveal" style="margin-top:10px;">
-      <span style="color: #000; background: var(--gold); padding: 4px 15px; border-radius: 20px; font-size: 11px; font-weight: 800;" data-key="verified">VERIFIED SULTAN</span>
+      <span style="color: #000; background: var(--gold); padding: 4px 15px; border-radius: 20px; font-size: 11px; font-weight: 800;" data-key="verified">VERIFIED LALU KUMAR</span>
     </div>
     <div id="clock" class="reveal" style="margin-top:12px; font-weight:800; color: var(--gold);"></div>
   </header>
